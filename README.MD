@@ -9,7 +9,7 @@ y la librería U8g2.
 ## 🧾 Lista de Materiales (BOM)
 
 ### 🔹 ESP32-C3 Super Mini
-![ESP32-C3 Super Mini](assets/esp32-c3-super-mini.png)
+![ESP32-C3 Super Mini](assets/ESP32C3SuperMini.webp)
 
 Microcontrolador principal del proyecto. Se encarga del control de la
 pantalla OLED y la animación del logo.
@@ -17,28 +17,28 @@ pantalla OLED y la animación del logo.
 ---
 
 ### 🔹 Pantalla OLED 128x64 SH1106
-![OLED SH1106](assets/oled-sh1106-128x64.png)
+![OLED SH1106](assets/oledsh1106.webp)
 
 Pantalla monocromática I2C utilizada para mostrar el logo animado.
 
 ---
 
 ### 🔹 Protoboard
-![Protoboard](assets/protoboard.png)
+![Protoboard](assets/protoboard.webp)
 
 Utilizada para el armado del circuito sin soldadura.
 
 ---
 
 ### 🔹 Regulador de voltaje 3.3V
-![Regulador 3.3V](assets/regulador-3v3.png)
+![Regulador 3.3V](assets/regulador.webp)
 
 Regulador balanceado para alimentar correctamente el ESP32 y la OLED.
 
 ---
 
 ### 🔹 Cables Dupont (Jumpers)
-![Jumpers](assets/jumpers.png)
+![Jumpers](assets/jumpers.webp)
 
 Cables para realizar las conexiones entre los componentes.
 
