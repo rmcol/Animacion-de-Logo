@@ -50,8 +50,8 @@ Cables para realizar las conexiones entre los componentes.
 |------------|----------|
 | VCC        | 3.3V     |
 | GND        | GND      |
-| SDA        | GPIO X   |
-| SCL        | GPIO Y   |
+| SDA        | GPIO 9   |
+| SCL        | GPIO 8   |
 
 *(ver diagrama en la carpeta `/diagrams`)*
 
